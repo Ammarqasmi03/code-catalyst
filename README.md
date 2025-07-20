@@ -1,4 +1,4 @@
 # code-catalyst
-Auther - Ammar 
+Auther - Ammar Qasmi 
 <br>
 This is my first repository
